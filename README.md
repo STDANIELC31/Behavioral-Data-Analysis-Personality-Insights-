@@ -42,7 +42,7 @@ I developed a data analysis pipeline in R that:
 
 ### Correlation Analysis
 
-![Correlation Heatmap](heatmap.png)
+![Correlation Heatmap](Behavioral-Data-Analysis-Personality-Insights-/heatmap.png)
 
 The correlation matrix revealed several meaningful relationships:
 
