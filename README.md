@@ -38,11 +38,11 @@ I developed a data analysis pipeline in R that:
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 ### Correlation Analysis
 
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](heatmap.png)
 
 The correlation matrix revealed several meaningful relationships:
 
@@ -54,7 +54,7 @@ This supports the idea that narcissistic individuals tend to be **“disagreeabl
 
 ---
 
-### 📈 Regression Analysis
+### Regression Analysis
 
 #### Hypothesis 1: Narcissism predicts Self-Esteem
 
