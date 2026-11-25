@@ -10,7 +10,7 @@ The goal was to understand how psychological variables interact and whether narc
 ## Problem
 Understanding human behavior is complex, especially when multiple psychological traits interact.
 
-In real-world applications (e.g., customer analytics), identifying meaningful relationships between variables is essential for:
+In real-world applications, identifying meaningful relationships between variables is essential for:
 - segmentation
 - personalization
 - predictive modeling
